@@ -7,9 +7,9 @@ def test_function():
 
 def test_function_2():
     """
-    Docstring: This is another test function
+    Docstring: This is a changed comment
     """
-    print("This is another test function")
+    print("Changed print statement")
 
 def test_function_3():
     """ Docstring: This is a third test function """
