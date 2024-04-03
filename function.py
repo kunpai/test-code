@@ -14,3 +14,6 @@ def test_function_2():
 def test_function_3():
     """ Docstring: This is a third test function """
     print("This is a third test function")
+
+def test_function_4():
+    print("This is a fourth test function")
